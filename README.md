@@ -1,0 +1,1 @@
+a comprehensive project on data engineering using DBT, Snowflake, and Airflow. It covers the process of setting up a cloud data warehouse with Snowflake, creating databases and schemas, and integrating DBT for data transformation.
